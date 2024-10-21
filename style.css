@@ -16,4 +16,9 @@ html {
 body {
     display: grid;
     place-content: center;
+    height: 100%;
+}
+
+h1 {
+    font-weight: 700;
 }
